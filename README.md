@@ -1,32 +1,20 @@
-<h1 align="center">Hi 👋, I'm Jaspher</h1>
-<h3 align="center">Front-End Developer | UI/UX Designer | Logo Artist</h3>
-
-- 🔭 I’m currently working on **modern UI projects**
-- 🌱 I’m improving my skills in **React, Figma, and Motion Design**
-- 💬 Ask me about **HTML, CSS, JS, and Design Principles**
-- 📫 Reach me at **jasphertania60.com**
+# 🔍 About Me:
+- 🔭 I’m primarily focus on **modern UI**<be>
+- 🌱 I’m improving my skills in **React, Figma, and Logo Design**<be>
+- 💬 Ask me about **HTML, CSS, JS, and Design Principles**<be>
+- 📫 Reach me at **jasphertania60.com**<br>
 - ⚡ Fun fact: I love turning complex problems into **beautifully simple designs**
 
-<h3>Tech Stack & Tools</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,figma,photoshop,illustrator" />
-</p>
 
-<h3>GitHub Stats</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jasphertania&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasphertania&layout=compact&theme=radical" />
-</p>
->
-<h3>Connect with me</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jasphertania60@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://https://www.linkedin.com/in/jaspher-tania/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+# 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jaspherr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Jaspherr&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaspherr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Jaspherr&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
