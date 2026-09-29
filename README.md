@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Jaspher 👋
 
-<!--
-**Jaspherr/Jaspherr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=Jaspherr&label=PROFILE+VIEWS&style=flat-square)
 
-Here are some ideas to get you started:
+UI/UX Designer & Front-End Developer focused on creating clear, responsive, and user-centered digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 🎨 UI/UX Design & Prototyping
+- 💻 Front-End Development
+- ⚡ React, Next.js, TypeScript
+- 📱 Web & Mobile Interfaces
+- 🤖 AI-Assisted Design & Development
+
+### Portfolio
+🌐 https://jt-portfolio-rho.vercel.app
+
+### Tools & Technologies
+Figma · React · Next.js · TypeScript · JavaScript · HTML · CSS · Flutter · Dart · Git · GitHub
+
+### Connect
+- LinkedIn: https://www.linkedin.com/in/jaspher-tania/
+- Portfolio: https://jt-portfolio-rho.vercel.app
