@@ -4,11 +4,11 @@
 
 UI/UX Designer & Front-End Developer focused on creating clear, responsive, and user-centered digital experiences.
 
-### About Me
+## What I Do
 - 🎨 UI/UX Design & Prototyping
 - 💻 Front-End Development
-- ⚡ React, Next.js, TypeScript
-- 📱 Web & Mobile Interfaces
+- 📱 Responsive Web & Mobile Interfaces
+- ⚡ React, Next.js & TypeScript
 - 🤖 AI-Assisted Design & Development
 
 ### Portfolio
