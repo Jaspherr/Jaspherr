@@ -1,7 +1,5 @@
 # Hi, I'm Jaspher 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jaspherr&label=PROFILE+VIEWS&style=flat-square)
-
 UI/UX Designer & Front-End Developer focused on creating clear, responsive, and user-centered digital experiences.
 
 ## What I Do
