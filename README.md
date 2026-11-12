@@ -1,20 +1,33 @@
-# Hi, I'm Jaspher 👋
 
-UI/UX Designer & Front-End Developer focused on creating clear, responsive, and user-centered digital experiences.
+# Hi, I'm Jaspher
 
-## What I Do
-- 🎨 UI/UX Design & Prototyping
-- 💻 Front-End Development
-- 📱 Responsive Web & Mobile Interfaces
-- ⚡ React, Next.js & TypeScript
-- 🤖 AI-Assisted Design & Development
+**UI/UX Designer & Front-End Developer**
 
-### Portfolio
-🌐 https://jt-portfolio-rho.vercel.app
+I work across design and development, turning user needs into intuitive interfaces and responsive digital experiences.
 
-### Tools & Technologies
-Figma · React · Next.js · TypeScript · JavaScript · HTML · CSS · Flutter · Dart · Git · GitHub
+## Tech Stacks
 
-### Connect
-- LinkedIn: https://www.linkedin.com/in/jaspher-tania/
-- Portfolio: https://jt-portfolio-rho.vercel.app
+<p align="left">
+  <img
+    src="https://skillicons.dev/icons?i=figma,react,nextjs,ts,js,html,css,java,py,flutter,dart,git,github&theme=dark"
+    height="48"
+    alt="Development Stack"
+  />
+  <img
+    src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/openai.png"
+    width="48"
+    height="48"
+    alt="ChatGPT"
+  />
+  <img
+    src="https://raw.githubusercontent.com/lobehub/lobe-icons/master/packages/static-png/dark/claudecode-color.png"
+    width="48"
+    height="48"
+    alt="Claude Code"
+  />
+</p>
+
+## Connect
+
+🌐 [Portfolio](https://jt-portfolio-rho.vercel.app/)  
+💼 [LinkedIn](https://www.linkedin.com/in/jaspher-tania/)
